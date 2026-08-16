@@ -1,11 +1,12 @@
 Original project: https://github.com/stoatchat/for-web
 Self-hosting: https://github.com/stoatchat/self-hosted
 
-The "self-hosted" files have not been altered in terms of their code and are therefore not uploaded, use the above link.
+This is not a tutorial, I am merely respecting the AGPL-3.0 license agreement by providing a method through which my changes to the base code of Stoat can be accessed.
+
+The "self-hosted" files, as of 2026.08.16 have not been altered in terms of their code, only their configuration and are therefore not uploaded, please use the above link.
 
 Private information, if present, has been redacted.
 
-
-My Custom Admin Panel is not imported into the "for-web" code and therefore is not uploaded.
+My Custom Admin Panel is not only not imported into the "for-web" or "self-hosted" code, but is also inaccessible through the internet and is therefore not published for public use.
 
 Public AGPL-3.0 Stoat frontend, separate private admin backend, server-side authorization.
