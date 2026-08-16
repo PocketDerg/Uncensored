@@ -8,4 +8,4 @@ Private information, if present, has been redacted.
 
 My Custom Admin Panel is not imported into the "for-web" code and therefore is not uploaded.
 
-Public AGPL-3.0 Stoat frontend, Separate private admin backend, Server-side authorization
+Public AGPL-3.0 Stoat frontend, separate private admin backend, server-side authorization.
