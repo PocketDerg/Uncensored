@@ -8,3 +8,5 @@ The "self-hosted" files have not been altered in terms of their code, only their
 Private information, if present, has been redacted.
 
 My Custom Admin Panel is not only not imported into the "for-web" or "self-hosted" code, but is also inaccessible through the internet and is therefore not published for public use.
+
+I do not know how to use this website.
